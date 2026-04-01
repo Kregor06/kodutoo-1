@@ -2,6 +2,6 @@
 
 Kregor Veemaa
 
-![](kodutoo1.png)
-
 Uuendatud kellal on võimalik muuta iga osa suurust eraldi.
+
+![](kodutoo1.png)
